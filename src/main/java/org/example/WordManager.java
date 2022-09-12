@@ -32,13 +32,13 @@ public class WordManager {
                 wordCRUD.listAll();
             }
             else if(menu == 4) {
-                wordCRUD.addWord();
+                wordCRUD.addItem();
             }
-            else if(menu == 5) {
+            else if(menu == 5) { //update
                 wordCRUD.updateItem();
             }
-            else if(menu == 6) {
-                //wordCRUD.addWord();
+            else if(menu == 6) { //delete
+                wordCRUD.deleteItem();
             }
         }
         System.out.println("\n프로그램 종료! 다음에 만나요~");
