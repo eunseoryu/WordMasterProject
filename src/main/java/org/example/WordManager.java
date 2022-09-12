@@ -42,6 +42,9 @@ public class WordManager {
             else if(menu == 6) { //delete
                 wordCRUD.deleteItem();
             }
+            else if(menu == 7) { //delete
+                wordCRUD.saveFile();
+            }
         }
         System.out.println("\n프로그램 종료! 다음에 만나요~");
 
