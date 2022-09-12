@@ -1,0 +1,33 @@
+1|require|요구하다
+2|technology|과학기술
+1|individual|개인
+1|provide|공급하다
+2|object|반대하다
+2|level|정도
+2|involve|포함하다
+2|employ|고용하다
+3|attitude|태도
+3|improve|개량하다
+1|research|조사하다
+1|supply|공급하다
+3|tend|～하는 경향이 있다
+2|affect|～에 영향을 미치다
+3|thus|이와 같이
+1|benefit|자선
+2|demand|요구하다
+2|occasion|경우
+2|fashion|방식
+3|recognize|알아보다
+2|proper|적당한
+3|due|～할 예정인
+2|behave|행동하다
+2|opportunity|기회
+1|determine|결정하다
+2|generate|발생하다
+1|exist|존재하다
+2|regret|유감
+2|occur|일어나다
+3|available|쓸모 있는
+2|professional|직업상의
+1|frequent|빈번한
+1|contact|접촉하다
